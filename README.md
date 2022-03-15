@@ -1,1 +1,1 @@
-# Who-turned-off-the-lights-McGame-Jam-2022-
+A small game made for McGame Jam 2022 in 48 hours. The build can also be downloaded at https://mulan21039.itch.io/who-turned-off-the-lights.![title_background](https://user-images.githubusercontent.com/90812136/158357388-4f2e994b-8aa7-4a99-89a2-d7cfb173c037.png)
